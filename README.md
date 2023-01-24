@@ -35,7 +35,7 @@ $apt update && apt upgrade  -y
 </div> 
 $pkg install nodejs -y
 </p>
-$pkg install lib webp -y
+$pkg install libwebp -y
 </p>
 $pkg install imagemagick  -y
 </p>
