@@ -47,5 +47,5 @@ $cd /sdcard/(nama file bot)
 </p>
 $npm start
 
-[Module](https://www.mediafire.com/file/admsg3x8hv1tnqq/node_modules.zip/file) for wa bot script 
+Download [Module](https://www.mediafire.com/file/admsg3x8hv1tnqq/node_modules.zip/file) for wa bot script 
    <a href="http://www.amitmerchant.com/electron-markdownify" ><img src="https://media.discordapp.net/attachments/988427953551585330/1067389672789131315/standard.gif" alt="DPD" width="350"></a>  
