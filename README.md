@@ -5,7 +5,7 @@
 
 <p align="center" >
    
-   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;+TO GITHUB+DPD;jangan+lupa+kasih+startnya+banh:)" alt="DPD"> 
+   <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;+TO+GITHUB+DPD;jangan+lupa+kasih+startnya+banh:)" alt="DPD"> 
 
    <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://media.discordapp.net/attachments/988427953551585330/1052204061425946695/078974a010fdcff24b76d278f26d4b7d.jpg" alt="DPD" width="350"></a>
 
