@@ -17,7 +17,7 @@
 <p  align ="center"
 <a href="#"><img title="DPD-MD" src="https://img.shields.io/badge/DPD%20MD-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
  <p align ="center" 
-<a href="https://wa.me/6282173892791"><img title="bots" src=https://img.shields.io/badge/Author-DPD/pdpd?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="http://wa.me/6282173892791"><img title="me bots" src=https://img.shields.io/badge/Author-DPD/pdpd?color=blue&style=for-the-badge&logo=whatsapp"></a>
 <a href="https://youtube.com/@DPD-MD"><img title="YouTube" src="https://img.shields.io/badge/YouTube-DPD/pdpd?color=blue&style=for-the-badge&logo=Youtube"></a>
 <a href="https://github.com/Dpdhi"><img titlle=github" src="https://img.shields.io/badge/YouTube-DPD/pdpd?color=blue&style=for-the-badge&logo=GITHUB"></a>
 </p>
@@ -47,4 +47,5 @@ $cd /sdcard/(nama file bot)
 </p>
 $npm start
 
+[Module](https://www.mediafire.com/file/admsg3x8hv1tnqq/node_modules.zip/file) for wa bot script 
    <a href="http://www.amitmerchant.com/electron-markdownify" ><img src="https://media.discordapp.net/attachments/988427953551585330/1067389672789131315/standard.gif" alt="DPD" width="350"></a>  
